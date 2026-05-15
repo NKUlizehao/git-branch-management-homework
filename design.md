@@ -1,2 +1,3 @@
 Project design document.
-This line is added on branch B3.
+This content is modified on branch B3.
+B3 provides an alternative design direction.
